@@ -1,0 +1,287 @@
+{
+  "community_guidelines": {
+    "version": "1.0.0",
+    "last_updated": "22 July 2026",
+    "sections": [
+      {
+        "id": 1,
+        "title": {
+          "en": "Be Respectful",
+          "bn": "সম্মানজনক আচরণ"
+        },
+        "content": {
+          "en": "Treat everyone with respect and courtesy. Healthy discussions are encouraged, but abusive, insulting, or disrespectful behavior toward others is not allowed.",
+          "bn": "সকল ব্যবহারকারীর প্রতি সম্মান ও সৌজন্য বজায় রাখুন। সুস্থ আলোচনা উৎসাহিত করা হয়, তবে অপমানজনক, অশোভন বা অসম্মানজনক আচরণ গ্রহণযোগ্য নয়।"
+        }
+      },
+      {
+        "id": 2,
+        "title": {
+          "en": "No Hate Speech",
+          "bn": "ঘৃণামূলক বক্তব্য নিষিদ্ধ"
+        },
+        "content": {
+          "en": "Do not post or share content that promotes hatred, discrimination, or violence against any person or group based on race, religion, nationality, ethnicity, gender, sexual orientation, disability, or other protected characteristics.",
+          "bn": "জাতি, ধর্ম, জাতীয়তা, নৃগোষ্ঠী, লিঙ্গ, যৌন অভিমুখিতা, প্রতিবন্ধকতা বা অন্য কোনো সুরক্ষিত পরিচয়ের ভিত্তিতে ঘৃণা, বৈষম্য বা সহিংসতা উস্কে দেয় এমন কোনো কনটেন্ট প্রকাশ বা শেয়ার করা যাবে না।"
+        }
+      },
+      {
+        "id": 3,
+        "title": {
+          "en": "No Harassment or Bullying",
+          "bn": "হয়রানি ও বুলিং নিষিদ্ধ"
+        },
+        "content": {
+          "en": "Harassment, intimidation, stalking, repeated unwanted contact, threats, or bullying of any user is strictly prohibited.",
+          "bn": "কোনো ব্যবহারকারীকে হয়রানি, ভয়ভীতি প্রদর্শন, অনুসরণ করা, বারবার অনাকাঙ্ক্ষিত যোগাযোগ করা, হুমকি দেওয়া বা বুলিং করা সম্পূর্ণ নিষিদ্ধ।"
+        }
+      },
+      {
+        "id": 4,
+        "title": {
+          "en": "No Spam or Misuse",
+          "bn": "স্প্যাম ও অপব্যবহার নিষিদ্ধ"
+        },
+        "content": {
+          "en": "Do not post spam, repeatedly publish the same content, send unsolicited messages, manipulate engagement, or misuse any feature of the platform.",
+          "bn": "স্প্যাম করা, একই কনটেন্ট বারবার প্রকাশ করা, অনাকাঙ্ক্ষিত বার্তা পাঠানো, কৃত্রিমভাবে এনগেজমেন্ট বাড়ানো বা প্ল্যাটফর্মের কোনো ফিচারের অপব্যবহার করা যাবে না।"
+        }
+      },
+      {
+        "id": 5,
+        "title": {
+          "en": "Authentic Identity",
+          "bn": "সঠিক পরিচয় ব্যবহার"
+        },
+        "content": {
+          "en": "Do not impersonate another person, organization, or brand. Creating fake or misleading accounts intended to deceive others is prohibited.",
+          "bn": "অন্য কোনো ব্যক্তি, প্রতিষ্ঠান বা ব্র্যান্ডের পরিচয় ব্যবহার করা যাবে না। প্রতারণার উদ্দেশ্যে ভুয়া বা বিভ্রান্তিকর অ্যাকাউন্ট তৈরি করা নিষিদ্ধ।"
+        }
+      },
+      {
+        "id": 6,
+        "title": {
+          "en": "Safe Communication",
+          "bn": "নিরাপদ যোগাযোগ"
+        },
+        "content": {
+          "en": "Use messaging and communication features responsibly. Do not send abusive, threatening, fraudulent, or unwanted messages to other users.",
+          "bn": "মেসেজিং ও যোগাযোগের সুবিধা দায়িত্বশীলভাবে ব্যবহার করুন। অন্য ব্যবহারকারীদের অপমানজনক, হুমকিমূলক, প্রতারণামূলক বা অনাকাঙ্ক্ষিত বার্তা পাঠাবেন না।"
+        }
+      },
+      {
+        "id": 7,
+        "title": {
+          "en": "Respect Privacy",
+          "bn": "গোপনীয়তার প্রতি সম্মান"
+        },
+        "content": {
+          "en": "Do not publish or share another person's private or confidential information without their permission.",
+          "bn": "অন্য কোনো ব্যক্তির ব্যক্তিগত বা গোপন তথ্য তার অনুমতি ছাড়া প্রকাশ বা শেয়ার করা যাবে না।"
+        }
+      },
+      {
+        "id": 8,
+        "title": {
+          "en": "No Illegal Content",
+          "bn": "অবৈধ কনটেন্ট নিষিদ্ধ"
+        },
+        "content": {
+          "en": "Content that promotes illegal activities, criminal behavior, or violates applicable laws is not permitted on ShoutSpot.",
+          "bn": "অবৈধ কার্যকলাপ, অপরাধমূলক আচরণ বা প্রযোজ্য আইন লঙ্ঘন করে এমন কোনো কনটেন্ট ShoutSpot-এ প্রকাশ করা যাবে না।"
+        }
+      },
+      {
+        "id": 9,
+        "title": {
+          "en": "No Adult or Sexually Explicit Content",
+          "bn": "অশ্লীল বা যৌন কনটেন্ট নিষিদ্ধ"
+        },
+        "content": {
+          "en": "Do not share pornography, sexually explicit material, or content intended for sexual exploitation or gratification.",
+          "bn": "পর্নোগ্রাফি, যৌন উত্তেজক কনটেন্ট বা যৌন শোষণ বা তৃপ্তির উদ্দেশ্যে তৈরি কোনো কনটেন্ট প্রকাশ বা শেয়ার করা যাবে না।"
+        }
+      },
+      {
+        "id": 10,
+        "title": {
+          "en": "No Violence or Dangerous Content",
+          "bn": "সহিংস বা বিপজ্জনক কনটেন্ট নিষিদ্ধ"
+        },
+        "content": {
+          "en": "Do not post content that glorifies violence, encourages self-harm, promotes dangerous activities, or threatens the safety of individuals or communities.",
+          "bn": "সহিংসতাকে মহিমান্বিত করে, আত্মক্ষতিকে উৎসাহিত করে, বিপজ্জনক কার্যকলাপ প্রচার করে বা ব্যক্তি কিংবা সমাজের নিরাপত্তাকে হুমকির মুখে ফেলে—এমন কোনো কনটেন্ট প্রকাশ করা যাবে না।"
+        }
+      },
+      {
+        "id": 11,
+        "title": {
+          "en": "No Fraud or Scams",
+          "bn": "প্রতারণা ও জালিয়াতি নিষিদ্ধ"
+        },
+        "content": {
+          "en": "Do not use ShoutSpot for fraud, scams, phishing, impersonation, or any activity intended to deceive or financially exploit others.",
+          "bn": "প্রতারণা, জালিয়াতি, ফিশিং, পরিচয় জালিয়াতি বা অন্য কাউকে আর্থিক বা অন্যভাবে প্রতারিত করার উদ্দেশ্যে ShoutSpot ব্যবহার করা যাবে না।"
+        }
+      },
+      {
+        "id": 12,
+        "title": {
+          "en": "No False Information",
+          "bn": "মিথ্যা তথ্য প্রচার নিষিদ্ধ"
+        },
+        "content": {
+          "en": "Do not intentionally share false, misleading, or manipulated information that may harm individuals, communities, or public safety.",
+          "bn": "ইচ্ছাকৃতভাবে মিথ্যা, বিভ্রান্তিকর বা বিকৃত তথ্য প্রচার করা যাবে না যা ব্যক্তি, সমাজ বা জননিরাপত্তার ক্ষতি করতে পারে।"
+        }
+      },
+      {
+        "id": 13,
+        "title": {
+          "en": "Respect Intellectual Property",
+          "bn": "মেধাস্বত্বের প্রতি সম্মান"
+        },
+        "content": {
+          "en": "Only share content that you own or have permission to use. Do not violate copyrights, trademarks, or other intellectual property rights.",
+          "bn": "শুধুমাত্র নিজের বা ব্যবহারের অনুমতি রয়েছে এমন কনটেন্ট শেয়ার করুন। কপিরাইট, ট্রেডমার্ক বা অন্য কোনো মেধাস্বত্ব লঙ্ঘন করা যাবে না।"
+        }
+      },
+      {
+        "id": 14,
+        "title": {
+          "en": "Responsible Quiz Creation",
+          "bn": "দায়িত্বশীল কুইজ তৈরি"
+        },
+        "content": {
+          "en": "Quiz creators must ensure that questions and answers are accurate, appropriate, and do not contain offensive, misleading, or prohibited content.",
+          "bn": "কুইজ নির্মাতাদের নিশ্চিত করতে হবে যে প্রশ্ন ও উত্তর সঠিক, উপযুক্ত এবং এতে আপত্তিকর, বিভ্রান্তিকর বা নিষিদ্ধ কোনো কনটেন্ট নেই।"
+        }
+      },
+      {
+        "id": 15,
+        "title": {
+          "en": "Fair Use of Points and Rewards",
+          "bn": "পয়েন্ট ও পুরস্কারের সুষ্ঠু ব্যবহার"
+        },
+        "content": {
+          "en": "Do not exploit bugs, automation, fake accounts, or any unfair methods to gain points, rewards, gifts, or referral benefits.",
+          "bn": "পয়েন্ট, পুরস্কার, গিফট বা রেফারেল সুবিধা অর্জনের জন্য বাগ, স্বয়ংক্রিয় ব্যবস্থা, ভুয়া অ্যাকাউন্ট বা অন্য কোনো অসৎ পদ্ধতি ব্যবহার করা যাবে না।"
+        }
+      },
+      {
+        "id": 16,
+        "title": {
+          "en": "No Unauthorized Promotion",
+          "bn": "অননুমোদিত প্রচারণা নিষিদ্ধ"
+        },
+        "content": {
+          "en": "Do not use ShoutSpot for unauthorized advertising, excessive promotions, referral abuse, or commercial activities that disrupt the community.",
+          "bn": "অননুমোদিত বিজ্ঞাপন, অতিরিক্ত প্রচারণা, রেফারেল অপব্যবহার বা কমিউনিটির স্বাভাবিক পরিবেশ নষ্ট করে এমন বাণিজ্যিক কার্যক্রম পরিচালনা করা যাবে না।"
+        }
+      },
+      {
+        "id": 17,
+        "title": {
+          "en": "Reporting Violations",
+          "bn": "নিয়ম ভঙ্গ রিপোর্ট"
+        },
+        "content": {
+          "en": "If you find content or behavior that violates these Community Guidelines, please report it through the available reporting or support channels.",
+          "bn": "এই Community Guidelines লঙ্ঘন করে এমন কোনো কনটেন্ট বা আচরণ দেখতে পেলে রিপোর্ট বা সাপোর্টের মাধ্যমে আমাদের জানান।"
+        }
+      },
+      {
+        "id": 18,
+        "title": {
+          "en": "Review Process",
+          "bn": "পর্যালোচনা প্রক্রিয়া"
+        },
+        "content": {
+          "en": "Reported content or accounts may be reviewed by our team. Appropriate action will be taken based on the available information and our policies.",
+          "bn": "রিপোর্টকৃত কনটেন্ট বা অ্যাকাউন্ট আমাদের টিম পর্যালোচনা করতে পারে। প্রাপ্ত তথ্য ও আমাদের নীতিমালার ভিত্তিতে প্রয়োজনীয় ব্যবস্থা নেওয়া হবে।"
+        }
+      },
+      {
+        "id": 19,
+        "title": {
+          "en": "Enforcement Actions",
+          "bn": "ব্যবস্থা গ্রহণ"
+        },
+        "content": {
+          "en": "Violations of these guidelines may result in content removal, feature restrictions, warnings, temporary suspension, or permanent account termination depending on the severity of the violation.",
+          "bn": "নিয়ম ভঙ্গের গুরুত্ব অনুযায়ী কনটেন্ট অপসারণ, কিছু সুবিধা সীমিত করা, সতর্কতা, সাময়িক স্থগিত বা স্থায়ীভাবে অ্যাকাউন্ট বন্ধ করা হতে পারে।"
+        }
+      },
+      {
+        "id": 20,
+        "title": {
+          "en": "Appeals",
+          "bn": "আপিল"
+        },
+        "content": {
+          "en": "If you believe enforcement action was taken in error, you may contact our support team to request a review of the decision.",
+          "bn": "আপনি যদি মনে করেন কোনো ব্যবস্থা ভুলবশত নেওয়া হয়েছে, তাহলে সিদ্ধান্ত পুনর্বিবেচনার জন্য আমাদের সাপোর্ট টিমের সাথে যোগাযোগ করতে পারেন।"
+        }
+      },
+      {
+        "id": 21,
+        "title": {
+          "en": "Repeated Violations",
+          "bn": "পুনরাবৃত্ত নিয়ম লঙ্ঘন"
+        },
+        "content": {
+          "en": "Users who repeatedly violate these Community Guidelines may face stronger enforcement actions, including permanent account suspension or removal from the platform.",
+          "bn": "যেসব ব্যবহারকারী বারবার এই Community Guidelines লঙ্ঘন করবেন, তাদের বিরুদ্ধে আরও কঠোর ব্যবস্থা নেওয়া হতে পারে, যার মধ্যে স্থায়ীভাবে অ্যাকাউন্ট বন্ধ করাও অন্তর্ভুক্ত।"
+        }
+      },
+      {
+        "id": 22,
+        "title": {
+          "en": "Child Safety",
+          "bn": "শিশুদের নিরাপত্তা"
+        },
+        "content": {
+          "en": "Content or behavior that exploits, endangers, or harms children is strictly prohibited. We take child safety seriously and may immediately remove such content or accounts and cooperate with relevant authorities where required by law.",
+          "bn": "শিশুদের শোষণ, ঝুঁকিতে ফেলা বা ক্ষতি করে এমন কোনো কনটেন্ট বা আচরণ সম্পূর্ণ নিষিদ্ধ। আমরা শিশুদের নিরাপত্তাকে সর্বোচ্চ গুরুত্ব দিই এবং প্রয়োজনে এ ধরনের কনটেন্ট বা অ্যাকাউন্ট দ্রুত অপসারণ ও আইন অনুযায়ী সংশ্লিষ্ট কর্তৃপক্ষের সাথে সহযোগিতা করতে পারি।"
+        }
+      },
+      {
+        "id": 23,
+        "title": {
+          "en": "Platform Integrity",
+          "bn": "প্ল্যাটফর্মের সুরক্ষা"
+        },
+        "content": {
+          "en": "Do not attempt to exploit bugs, bypass security measures, interfere with the normal operation of ShoutSpot, or use automated tools to manipulate the platform.",
+          "bn": "ShoutSpot-এর ত্রুটি বা নিরাপত্তা ব্যবস্থা অপব্যবহার করা, প্ল্যাটফর্মের স্বাভাবিক কার্যক্রমে বিঘ্ন সৃষ্টি করা বা স্বয়ংক্রিয় টুল ব্যবহার করে প্ল্যাটফর্মকে প্রভাবিত করার চেষ্টা করা যাবে না।"
+        }
+      },
+      {
+        "id": 24,
+        "title": {
+          "en": "Updates to Community Guidelines",
+          "bn": "কমিউনিটি গাইডলাইন পরিবর্তন"
+        },
+        "content": {
+          "en": "These Community Guidelines may be updated from time to time to improve user safety, comply with applicable laws, or reflect new features and services. Continued use of ShoutSpot means you accept the latest version.",
+          "bn": "ব্যবহারকারীর নিরাপত্তা বৃদ্ধি, প্রযোজ্য আইন মেনে চলা বা নতুন ফিচার ও সেবার সাথে সামঞ্জস্য রাখতে এই Community Guidelines সময়ে সময়ে পরিবর্তন করা হতে পারে। ShoutSpot ব্যবহার অব্যাহত রাখলে সর্বশেষ সংস্করণে আপনার সম্মতি রয়েছে বলে গণ্য হবে।"
+        }
+      },
+      {
+        "id": 25,
+        "title": {
+          "en": "Contact and Support",
+          "bn": "যোগাযোগ ও সহায়তা"
+        },
+        "content": {
+          "en": "If you have questions, feedback, or wish to report a Community Guidelines violation, please contact us through the official support options available within ShoutSpot.",
+          "bn": "আপনার কোনো প্রশ্ন, মতামত বা Community Guidelines লঙ্ঘনের অভিযোগ থাকলে ShoutSpot-এর অফিসিয়াল সাপোর্টের মাধ্যমে আমাদের সাথে যোগাযোগ করুন।"
+        }
+      }
+    ],
+    "footer": {
+      "en": "Thank you for helping keep ShoutSpot safe, respectful, and welcoming for everyone.",
+      "bn": "ShoutSpot-কে সবার জন্য নিরাপদ, সম্মানজনক ও ইতিবাচক রাখতে সহযোগিতা করার জন্য আপনাকে ধন্যবাদ।"
+    }
+  }
+}

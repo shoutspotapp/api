@@ -1,0 +1,287 @@
+{
+  "privacy_policy": {
+    "version": "1.0.0",
+    "last_updated": "22 July 2026",
+    "sections": [
+      {
+        "id": 1,
+        "title": {
+          "en": "Introduction",
+          "bn": "ভূমিকা"
+        },
+        "content": {
+          "en": "Welcome to ShoutSpot. Your privacy is important to us. This Privacy Policy explains what information we collect, how we use it, how we protect it, and the choices you have while using our services.",
+          "bn": "ShoutSpot-এ আপনাকে স্বাগতম। আপনার গোপনীয়তা আমাদের কাছে গুরুত্বপূর্ণ। এই নীতিমালায় আমরা কী তথ্য সংগ্রহ করি, কেন করি, কীভাবে ব্যবহার ও সংরক্ষণ করি এবং আপনার কী কী অধিকার রয়েছে তা ব্যাখ্যা করা হয়েছে।"
+        }
+      },
+      {
+        "id": 2,
+        "title": {
+          "en": "Information We Collect",
+          "bn": "আমরা কী তথ্য সংগ্রহ করি"
+        },
+        "content": {
+          "en": "To provide our services, we collect only the information necessary for your account and app features. Some information is required while other information is completely optional.",
+          "bn": "আমাদের সেবা প্রদান করার জন্য শুধুমাত্র প্রয়োজনীয় তথ্য সংগ্রহ করা হয়। কিছু তথ্য বাধ্যতামূলক এবং বাকি তথ্য সম্পূর্ণ ঐচ্ছিক।"
+        }
+      },
+      {
+        "id": 3,
+        "title": {
+          "en": "Required Information",
+          "bn": "বাধ্যতামূলক তথ্য"
+        },
+        "content": {
+          "en": "Creating an account requires your phone number for OTP verification and a unique username (nickname). These are required to identify your account and keep the service secure.",
+          "bn": "অ্যাকাউন্ট তৈরির জন্য OTP যাচাইয়ের উদ্দেশ্যে আপনার ফোন নম্বর এবং একটি ইউনিক ইউজারনেম (নিকনেম) প্রয়োজন। এগুলো আপনার অ্যাকাউন্ট শনাক্তকরণ ও নিরাপত্তার জন্য ব্যবহৃত হয়।"
+        }
+      },
+      {
+        "id": 4,
+        "title": {
+          "en": "Optional Information",
+          "bn": "ঐচ্ছিক তথ্য"
+        },
+        "content": {
+          "en": "You may optionally add your display name, profile photo, email address, bio, date of birth, district, and upazila. These details help personalize your profile and make it easier for other users to recognize you.",
+          "bn": "আপনি চাইলে আপনার নাম, প্রোফাইল ছবি, ইমেইল, বায়ো, জন্মতারিখ, জেলা এবং উপজেলা যোগ করতে পারেন। এগুলো সম্পূর্ণ ঐচ্ছিক এবং আপনার প্রোফাইলকে আরও ব্যক্তিগত ও পরিচিত করতে সহায়তা করে।"
+        }
+      },
+      {
+        "id": 5,
+        "title": {
+          "en": "Location Information",
+          "bn": "লোকেশন সংক্রান্ত তথ্য"
+        },
+        "content": {
+          "en": "ShoutSpot does not access your device GPS or real-time location. If you choose, you may manually enter your district and upazila to help other users discover people from the same area.",
+          "bn": "ShoutSpot আপনার ডিভাইসের GPS বা রিয়েল-টাইম লোকেশন ব্যবহার করে না। আপনি চাইলে নিজে থেকে জেলা ও উপজেলা যুক্ত করতে পারবেন, যাতে একই এলাকার ব্যবহারকারীরা সহজে একে অপরকে খুঁজে পেতে পারেন।"
+        }
+      },
+      {
+        "id": 6,
+        "title": {
+          "en": "How We Use Your Information",
+          "bn": "আপনার তথ্য কীভাবে ব্যবহার করা হয়"
+        },
+        "content": {
+          "en": "We use your information to create and manage your account, provide messaging, publish shouts, comments, quizzes, referrals, point rewards, notifications, customer support, and improve the overall experience.",
+          "bn": "আপনার তথ্য অ্যাকাউন্ট পরিচালনা, মেসেজিং, শাউট, মন্তব্য, কুইজ, রেফারেল, পয়েন্ট রিওয়ার্ড, নোটিফিকেশন, কাস্টমার সাপোর্ট এবং অ্যাপের সামগ্রিক সেবা প্রদান ও উন্নত করার জন্য ব্যবহার করা হয়।"
+        }
+      },
+      {
+        "id": 7,
+        "title": {
+          "en": "Messaging and Communication",
+          "bn": "মেসেজিং ও যোগাযোগ"
+        },
+        "content": {
+          "en": "Users can communicate through in-app messaging and supported SMS features. Your phone number is not visible to other users. Communication is handled using your account identity instead of exposing your personal phone number.",
+          "bn": "ব্যবহারকারীরা ইন-অ্যাপ মেসেজিং এবং সমর্থিত SMS সুবিধার মাধ্যমে যোগাযোগ করতে পারবেন। আপনার ফোন নম্বর অন্য ব্যবহারকারীদের কাছে প্রদর্শিত হয় না। যোগাযোগ আপনার অ্যাকাউন্ট পরিচয়ের মাধ্যমে সম্পন্ন হয়।"
+        }
+      },
+      {
+        "id": 8,
+        "title": {
+          "en": "User Content",
+          "bn": "ব্যবহারকারীর কনটেন্ট"
+        },
+        "content": {
+          "en": "You may create shouts, comments, quizzes, profile information and other content. You remain responsible for the content you publish and should ensure it follows our Community Guidelines.",
+          "bn": "আপনি শাউট, মন্তব্য, কুইজ, প্রোফাইল তথ্য এবং অন্যান্য কনটেন্ট প্রকাশ করতে পারেন। আপনি যে কনটেন্ট প্রকাশ করবেন তার সম্পূর্ণ দায়িত্ব আপনার এবং তা অবশ্যই আমাদের কমিউনিটি গাইডলাইন অনুসরণ করতে হবে।"
+        }
+      },
+      {
+        "id": 9,
+        "title": {
+          "en": "Points, Gifts and Referrals",
+          "bn": "পয়েন্ট, গিফট ও রেফারেল"
+        },
+        "content": {
+          "en": "ShoutSpot includes a point system, quizzes, gifts, referrals, and point transfers. Referral rewards are provided only after the referred user successfully purchases points according to our referral policy.",
+          "bn": "ShoutSpot-এ পয়েন্ট সিস্টেম, কুইজ, গিফট, রেফারেল এবং পয়েন্ট ট্রান্সফারের সুবিধা রয়েছে। রেফারেল রিওয়ার্ড শুধুমাত্র রেফারকৃত ব্যবহারকারী সফলভাবে পয়েন্ট ক্রয় করার পর আমাদের নীতিমালা অনুযায়ী প্রদান করা হয়।"
+        }
+      },
+      {
+        "id": 10,
+        "title": {
+          "en": "Point Purchases",
+          "bn": "পয়েন্ট ক্রয়"
+        },
+        "content": {
+          "en": "Point purchases are currently verified manually. Users submit payment details or transaction information for verification. We do not currently use any third-party payment gateway. Payment methods may change in future updates.",
+          "bn": "বর্তমানে পয়েন্ট ক্রয় ম্যানুয়াল যাচাইয়ের মাধ্যমে সম্পন্ন হয়। ব্যবহারকারী পেমেন্টের তথ্য বা ট্রানজেকশন তথ্য জমা দেন এবং যাচাই শেষে পয়েন্ট যুক্ত করা হয়। বর্তমানে কোনো তৃতীয় পক্ষের পেমেন্ট গেটওয়ে ব্যবহার করা হয় না। ভবিষ্যতে এই ব্যবস্থা পরিবর্তিত হতে পারে।"
+        }
+      },
+      {
+        "id": 11,
+        "title": {
+          "en": "Notifications",
+          "bn": "নোটিফিকেশন"
+        },
+        "content": {
+          "en": "ShoutSpot may send notifications about messages, mentions, followers, quizzes, rewards, account activities, and important service updates. You can manage notification preferences from your device or app settings.",
+          "bn": "ShoutSpot মেসেজ, মেনশন, ফলো, কুইজ, রিওয়ার্ড, অ্যাকাউন্ট সংক্রান্ত কার্যক্রম এবং গুরুত্বপূর্ণ আপডেটের জন্য নোটিফিকেশন পাঠাতে পারে। আপনি চাইলে ডিভাইস বা অ্যাপের সেটিংস থেকে নোটিফিকেশন নিয়ন্ত্রণ করতে পারবেন।"
+        }
+      },
+      {
+        "id": 12,
+        "title": {
+          "en": "Third-Party Services",
+          "bn": "তৃতীয় পক্ষের সেবা"
+        },
+        "content": {
+          "en": "We use trusted third-party services where necessary to deliver notifications, provide customer support, and serve public application resources. These services are used only to support the operation of ShoutSpot.",
+          "bn": "ShoutSpot পরিচালনার জন্য প্রয়োজন অনুযায়ী বিশ্বস্ত তৃতীয় পক্ষের সেবা ব্যবহার করা হয়, যেমন নোটিফিকেশন প্রদান, গ্রাহক সহায়তা এবং অ্যাপের পাবলিক রিসোর্স সরবরাহের ক্ষেত্রে।"
+        }
+      },
+      {
+        "id": 13,
+        "title": {
+          "en": "Data Sharing",
+          "bn": "তথ্য শেয়ারিং"
+        },
+        "content": {
+          "en": "We do not sell or rent your personal information. Information may be shared only when required by law or when necessary to provide the services you request.",
+          "bn": "আমরা আপনার ব্যক্তিগত তথ্য বিক্রি বা ভাড়া দিই না। শুধুমাত্র আইনগত বাধ্যবাধকতা বা আপনার অনুরোধকৃত সেবা প্রদানের প্রয়োজনে তথ্য ব্যবহার বা শেয়ার করা হতে পারে।"
+        }
+      },
+      {
+        "id": 14,
+        "title": {
+          "en": "Data Security",
+          "bn": "তথ্য নিরাপত্তা"
+        },
+        "content": {
+          "en": "We use appropriate technical and organizational measures to help protect your information. While we work to keep your data secure, no internet service can guarantee absolute security.",
+          "bn": "আপনার তথ্য সুরক্ষিত রাখতে আমরা উপযুক্ত প্রযুক্তিগত ও প্রশাসনিক নিরাপত্তা ব্যবস্থা গ্রহণ করি। তবে ইন্টারনেটভিত্তিক কোনো সেবাই শতভাগ নিরাপত্তার নিশ্চয়তা দিতে পারে না।"
+        }
+      },
+      {
+        "id": 15,
+        "title": {
+          "en": "Data Retention",
+          "bn": "তথ্য সংরক্ষণ"
+        },
+        "content": {
+          "en": "We retain information only for as long as necessary to operate the service, comply with legal obligations, resolve disputes, and enforce our policies. Temporary communication data may be automatically removed after a limited period.",
+          "bn": "সেবা পরিচালনা, আইনগত বাধ্যবাধকতা পালন, বিরোধ নিষ্পত্তি এবং নীতিমালা কার্যকর রাখার জন্য প্রয়োজনীয় সময় পর্যন্ত তথ্য সংরক্ষণ করা হয়। অস্থায়ী যোগাযোগের তথ্য নির্ধারিত সময় শেষে স্বয়ংক্রিয়ভাবে অপসারণ করা হতে পারে।"
+        }
+      },
+      {
+        "id": 16,
+        "title": {
+          "en": "Your Controls",
+          "bn": "আপনার নিয়ন্ত্রণ"
+        },
+        "content": {
+          "en": "You can update your profile, manage optional information, control notifications, disable messaging, block or unblock users, and manage your account settings at any time.",
+          "bn": "আপনি যেকোনো সময় আপনার প্রোফাইল সম্পাদনা করতে, ঐচ্ছিক তথ্য পরিবর্তন করতে, নোটিফিকেশন নিয়ন্ত্রণ করতে, মেসেজ গ্রহণ বন্ধ করতে, ব্যবহারকারীকে ব্লক বা আনব্লক করতে এবং অন্যান্য অ্যাকাউন্ট সেটিংস পরিচালনা করতে পারবেন।"
+        }
+      },
+      {
+        "id": 17,
+        "title": {
+          "en": "Account Deletion",
+          "bn": "অ্যাকাউন্ট মুছে ফেলা"
+        },
+        "content": {
+          "en": "You may delete your account at any time. After deletion, your personal information will be removed or anonymized unless we are legally required to retain certain records.",
+          "bn": "আপনি যেকোনো সময় আপনার অ্যাকাউন্ট মুছে ফেলতে পারবেন। অ্যাকাউন্ট মুছে ফেলার পর আপনার ব্যক্তিগত তথ্য মুছে ফেলা বা পরিচয়বিহীন করা হবে, যদি না আইনগত কারণে কিছু তথ্য সংরক্ষণ করা বাধ্যতামূলক হয়।"
+        }
+      },
+      {
+        "id": 18,
+        "title": {
+          "en": "Children's Privacy",
+          "bn": "শিশুদের গোপনীয়তা"
+        },
+        "content": {
+          "en": "ShoutSpot is intended only for users who meet the minimum age required under applicable laws. If we discover that an account was created in violation of these requirements, appropriate action may be taken.",
+          "bn": "প্রযোজ্য আইন অনুযায়ী নির্ধারিত ন্যূনতম বয়স পূরণকারী ব্যবহারকারীদের জন্যই ShoutSpot। এই শর্ত লঙ্ঘন করে কোনো অ্যাকাউন্ট তৈরি হয়েছে বলে জানা গেলে প্রয়োজনীয় ব্যবস্থা নেওয়া হতে পারে।"
+        }
+      },
+      {
+        "id": 19,
+        "title": {
+          "en": "Policy Updates",
+          "bn": "নীতিমালার পরিবর্তন"
+        },
+        "content": {
+          "en": "We may update this Privacy Policy from time to time. Updated versions become effective once published within the application or on our official platforms.",
+          "bn": "প্রয়োজন অনুযায়ী আমরা এই Privacy Policy পরিবর্তন করতে পারি। নতুন সংস্করণ অ্যাপ বা আমাদের অফিসিয়াল প্ল্যাটফর্মে প্রকাশিত হওয়ার পর থেকেই কার্যকর হবে।"
+        }
+      },
+      {
+        "id": 20,
+        "title": {
+          "en": "Contact Us",
+          "bn": "যোগাযোগ"
+        },
+        "content": {
+          "en": "If you have questions, concerns, or requests regarding this Privacy Policy or your personal information, please contact us through the official support options available within ShoutSpot.",
+          "bn": "এই Privacy Policy বা আপনার ব্যক্তিগত তথ্য সম্পর্কে কোনো প্রশ্ন, অভিযোগ বা অনুরোধ থাকলে ShoutSpot-এর অফিসিয়াল সাপোর্টের মাধ্যমে আমাদের সাথে যোগাযোগ করুন।"
+        }
+      },
+      {
+        "id": 21,
+        "title": {
+          "en": "Your Rights",
+          "bn": "আপনার অধিকার"
+        },
+        "content": {
+          "en": "Depending on applicable laws, you may have the right to access, update, correct, or request deletion of your personal information. We will review and respond to eligible requests within a reasonable time.",
+          "bn": "প্রযোজ্য আইন অনুযায়ী আপনি আপনার ব্যক্তিগত তথ্য দেখার, সংশোধনের, হালনাগাদ করার বা মুছে ফেলার অনুরোধ করার অধিকার পেতে পারেন। উপযুক্ত অনুরোধ যুক্তিসঙ্গত সময়ের মধ্যে পর্যালোচনা করা হবে।"
+        }
+      },
+      {
+        "id": 22,
+        "title": {
+          "en": "Service Availability",
+          "bn": "সেবার প্রাপ্যতা"
+        },
+        "content": {
+          "en": "We continuously improve ShoutSpot. Some features may be modified, suspended, or discontinued without prior notice when necessary to improve security, stability, or compliance with legal requirements.",
+          "bn": "ShoutSpot নিয়মিত উন্নয়নের মাধ্যমে পরিচালিত হয়। নিরাপত্তা, স্থিতিশীলতা বা আইনগত প্রয়োজনের কারণে কোনো কোনো ফিচার পূর্ব ঘোষণা ছাড়াই পরিবর্তন, সাময়িক স্থগিত বা বন্ধ করা হতে পারে।"
+        }
+      },
+      {
+        "id": 23,
+        "title": {
+          "en": "International Users",
+          "bn": "আন্তর্জাতিক ব্যবহারকারী"
+        },
+        "content": {
+          "en": "If you access ShoutSpot from outside your country or region, you acknowledge that your information may be processed in accordance with this Privacy Policy and applicable laws.",
+          "bn": "আপনি যদি অন্য কোনো দেশ বা অঞ্চল থেকে ShoutSpot ব্যবহার করেন, তাহলে এই Privacy Policy এবং প্রযোজ্য আইন অনুযায়ী আপনার তথ্য প্রক্রিয়াকরণ হতে পারে।"
+        }
+      },
+      {
+        "id": 24,
+        "title": {
+          "en": "Changes to this Privacy Policy",
+          "bn": "প্রাইভেসি পলিসির পরিবর্তন"
+        },
+        "content": {
+          "en": "We may update this Privacy Policy from time to time. Any changes become effective after they are published in the application or through our official communication channels. We encourage you to review this policy periodically.",
+          "bn": "প্রয়োজন অনুযায়ী এই Privacy Policy সময়ে সময়ে হালনাগাদ করা হতে পারে। পরিবর্তিত নীতিমালা অ্যাপ বা আমাদের অফিসিয়াল যোগাযোগ মাধ্যমে প্রকাশের পর কার্যকর হবে। নিয়মিত এই নীতিমালা পর্যালোচনা করার জন্য আপনাকে উৎসাহিত করা হচ্ছে।"
+        }
+      },
+      {
+        "id": 25,
+        "title": {
+          "en": "Contact Information",
+          "bn": "যোগাযোগের তথ্য"
+        },
+        "content": {
+          "en": "If you have any questions, concerns, or requests regarding this Privacy Policy or your personal information, please contact us through the official support options available in the ShoutSpot application or our official website.",
+          "bn": "এই Privacy Policy বা আপনার ব্যক্তিগত তথ্য সম্পর্কিত কোনো প্রশ্ন, মতামত বা অনুরোধ থাকলে ShoutSpot অ্যাপের অফিসিয়াল সাপোর্ট অথবা আমাদের অফিসিয়াল ওয়েবসাইটের মাধ্যমে যোগাযোগ করুন।"
+        }
+      }
+    ],
+    "footer": {
+      "en": "By using ShoutSpot, you acknowledge that you have read and understood this Privacy Policy.",
+      "bn": "ShoutSpot ব্যবহার করার মাধ্যমে আপনি এই Privacy Policy পড়েছেন, বুঝেছেন এবং এর শর্তাবলীর সাথে সম্মত হয়েছেন।"
+    }
+  }
+}

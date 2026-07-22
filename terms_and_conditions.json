@@ -1,0 +1,287 @@
+{
+  "terms_and_conditions": {
+    "version": "1.0.0",
+    "last_updated": "22 July 2026",
+    "sections": [
+      {
+        "id": 1,
+        "title": {
+          "en": "Acceptance of Terms",
+          "bn": "শর্তাবলী গ্রহণ"
+        },
+        "content": {
+          "en": "By creating an account or using ShoutSpot, you agree to comply with these Terms and Conditions. If you do not agree with any part of these terms, you should not use the application.",
+          "bn": "ShoutSpot-এ অ্যাকাউন্ট তৈরি বা অ্যাপ ব্যবহার করার মাধ্যমে আপনি এই শর্তাবলী মেনে নিতে সম্মত হচ্ছেন। যদি কোনো শর্তের সাথে একমত না হন, তাহলে অ্যাপটি ব্যবহার করা থেকে বিরত থাকুন।"
+        }
+      },
+      {
+        "id": 2,
+        "title": {
+          "en": "Eligibility",
+          "bn": "ব্যবহারের যোগ্যতা"
+        },
+        "content": {
+          "en": "You must meet the minimum age required under applicable laws and have the legal authority to use this service. You are responsible for ensuring your use of ShoutSpot complies with the laws of your country or region.",
+          "bn": "ShoutSpot ব্যবহার করতে হলে প্রযোজ্য আইন অনুযায়ী নির্ধারিত ন্যূনতম বয়স পূরণ করতে হবে এবং এই সেবা ব্যবহারের আইনগত অধিকার থাকতে হবে। আপনার দেশের বা অঞ্চলের আইন মেনে অ্যাপ ব্যবহার করার দায়িত্ব আপনার।"
+        }
+      },
+      {
+        "id": 3,
+        "title": {
+          "en": "Account Registration",
+          "bn": "অ্যাকাউন্ট নিবন্ধন"
+        },
+        "content": {
+          "en": "You are responsible for providing accurate information during registration and for keeping your account information up to date. You are also responsible for all activities that occur under your account.",
+          "bn": "অ্যাকাউন্ট নিবন্ধনের সময় সঠিক তথ্য প্রদান এবং প্রয়োজন হলে তা হালনাগাদ রাখার দায়িত্ব আপনার। আপনার অ্যাকাউন্টের মাধ্যমে সংঘটিত সকল কার্যক্রমের জন্য আপনিই দায়ী।"
+        }
+      },
+      {
+        "id": 4,
+        "title": {
+          "en": "Account Security",
+          "bn": "অ্যাকাউন্টের নিরাপত্তা"
+        },
+        "content": {
+          "en": "You are responsible for maintaining the security of your account and device. If you believe your account has been accessed without authorization, please contact us immediately.",
+          "bn": "আপনার অ্যাকাউন্ট ও ডিভাইসের নিরাপত্তা নিশ্চিত করার দায়িত্ব আপনার। যদি মনে হয় আপনার অনুমতি ছাড়া কেউ অ্যাকাউন্ট ব্যবহার করেছে, তাহলে দ্রুত আমাদের সাথে যোগাযোগ করুন।"
+        }
+      },
+      {
+        "id": 5,
+        "title": {
+          "en": "Acceptable Use",
+          "bn": "গ্রহণযোগ্য ব্যবহার"
+        },
+        "content": {
+          "en": "You agree to use ShoutSpot responsibly and lawfully. You must not misuse the service, interfere with its operation, attempt unauthorized access, or engage in activities that may harm other users or the platform.",
+          "bn": "আপনি দায়িত্বশীল ও আইনসম্মতভাবে ShoutSpot ব্যবহার করতে সম্মত হচ্ছেন। সেবার অপব্যবহার, অননুমোদিত প্রবেশের চেষ্টা, সিস্টেমে বিঘ্ন সৃষ্টি বা অন্য ব্যবহারকারী কিংবা প্ল্যাটফর্মের ক্ষতি হয় এমন কার্যক্রম করা যাবে না।"
+        }
+      },
+      {
+        "id": 6,
+        "title": {
+          "en": "User Content",
+          "bn": "ব্যবহারকারীর কনটেন্ট"
+        },
+        "content": {
+          "en": "You are solely responsible for the content you publish, including shouts, comments, profile information, quizzes, and messages. Content must comply with our Community Guidelines and applicable laws.",
+          "bn": "শাউট, মন্তব্য, প্রোফাইল তথ্য, কুইজ এবং মেসেজসহ আপনি যে কনটেন্ট প্রকাশ করবেন তার সম্পূর্ণ দায়িত্ব আপনার। সকল কনটেন্ট আমাদের কমিউনিটি গাইডলাইন এবং প্রযোজ্য আইন অনুসরণ করতে হবে।"
+        }
+      },
+      {
+        "id": 7,
+        "title": {
+          "en": "Points and Rewards",
+          "bn": "পয়েন্ট ও পুরস্কার"
+        },
+        "content": {
+          "en": "Points, rewards, referrals, gifts, and similar features are provided according to the rules of the application. We reserve the right to adjust, suspend, or discontinue these features when necessary.",
+          "bn": "পয়েন্ট, পুরস্কার, রেফারেল, গিফট এবং অনুরূপ সুবিধাগুলো অ্যাপের নিয়ম অনুযায়ী পরিচালিত হয়। প্রয়োজনে আমরা এসব সুবিধা পরিবর্তন, সাময়িক স্থগিত বা বন্ধ করার অধিকার সংরক্ষণ করি।"
+        }
+      },
+      {
+        "id": 8,
+        "title": {
+          "en": "Purchases",
+          "bn": "ক্রয়"
+        },
+        "content": {
+          "en": "Point purchases are processed according to the procedures available within the application. Verification may be required before purchased points are added to your account.",
+          "bn": "অ্যাপে উল্লেখিত প্রক্রিয়া অনুযায়ী পয়েন্ট ক্রয় সম্পন্ন হয়। পয়েন্ট অ্যাকাউন্টে যোগ করার আগে প্রয়োজন অনুযায়ী যাচাই করা হতে পারে।"
+        }
+      },
+      {
+        "id": 9,
+        "title": {
+          "en": "Service Availability",
+          "bn": "সেবার প্রাপ্যতা"
+        },
+        "content": {
+          "en": "We strive to keep ShoutSpot available and reliable; however, we do not guarantee uninterrupted or error-free service. Maintenance, technical issues, or circumstances beyond our control may affect availability.",
+          "bn": "আমরা ShoutSpot নিরবচ্ছিন্নভাবে চালু রাখার চেষ্টা করি, তবে সবসময় নিরবচ্ছিন্ন বা ত্রুটিমুক্ত সেবা নিশ্চিত করা সম্ভব নয়। রক্ষণাবেক্ষণ, প্রযুক্তিগত সমস্যা বা নিয়ন্ত্রণের বাইরে থাকা কারণে সেবা সাময়িকভাবে ব্যাহত হতে পারে।"
+        }
+      },
+      {
+        "id": 10,
+        "title": {
+          "en": "Violation of Terms",
+          "bn": "শর্ত লঙ্ঘন"
+        },
+        "content": {
+          "en": "If you violate these Terms or applicable laws, we may restrict certain features, suspend, or permanently terminate your account without prior notice where permitted by law.",
+          "bn": "আপনি যদি এই শর্তাবলী বা প্রযোজ্য আইন লঙ্ঘন করেন, তাহলে আইন অনুযায়ী প্রয়োজন হলে পূর্ব নোটিশ ছাড়াই আপনার কিছু সুবিধা সীমিত, সাময়িকভাবে স্থগিত বা স্থায়ীভাবে অ্যাকাউন্ট বন্ধ করা হতে পারে।"
+        }
+      },
+      {
+        "id": 11,
+        "title": {
+          "en": "Messaging",
+          "bn": "মেসেজিং"
+        },
+        "content": {
+          "en": "ShoutSpot provides messaging features to help users communicate. You are responsible for the messages you send and must not use messaging for harassment, spam, fraud, threats, or any unlawful activity.",
+          "bn": "ShoutSpot ব্যবহারকারীদের মধ্যে যোগাযোগের জন্য মেসেজিং সুবিধা প্রদান করে। আপনি যে মেসেজ পাঠাবেন তার দায়িত্ব আপনার। হয়রানি, স্প্যাম, প্রতারণা, হুমকি বা কোনো অবৈধ কাজে মেসেজিং ব্যবহার করা যাবে না।"
+        }
+      },
+      {
+        "id": 12,
+        "title": {
+          "en": "Privacy of Communication",
+          "bn": "যোগাযোগের গোপনীয়তা"
+        },
+        "content": {
+          "en": "You must respect the privacy of other users. Personal information or private communications of another user must not be shared without their permission.",
+          "bn": "অন্য ব্যবহারকারীর গোপনীয়তাকে সম্মান করতে হবে। কারও ব্যক্তিগত তথ্য বা ব্যক্তিগত কথোপকথন তার অনুমতি ছাড়া প্রকাশ বা শেয়ার করা যাবে না।"
+        }
+      },
+      {
+        "id": 13,
+        "title": {
+          "en": "Intellectual Property",
+          "bn": "মেধাস্বত্ব"
+        },
+        "content": {
+          "en": "The ShoutSpot application, its software, branding, logos, design, and related content are protected by applicable intellectual property laws. Unauthorized copying, modification, distribution, or misuse is prohibited.",
+          "bn": "ShoutSpot অ্যাপ, সফটওয়্যার, ব্র্যান্ডিং, লোগো, ডিজাইন এবং সংশ্লিষ্ট কনটেন্ট প্রযোজ্য মেধাস্বত্ব আইন দ্বারা সুরক্ষিত। অনুমতি ছাড়া কপি, পরিবর্তন, বিতরণ বা অপব্যবহার করা যাবে না।"
+        }
+      },
+      {
+        "id": 14,
+        "title": {
+          "en": "Service and Feature Changes",
+          "bn": "সেবা ও ফিচার পরিবর্তন"
+        },
+        "content": {
+          "en": "We may add, modify, suspend, or remove features and services at any time to improve ShoutSpot, maintain security, or comply with legal requirements.",
+          "bn": "ShoutSpot-এর উন্নয়ন, নিরাপত্তা বা আইনগত প্রয়োজন অনুযায়ী আমরা যেকোনো সময় নতুন ফিচার যোগ, বিদ্যমান ফিচার পরিবর্তন, স্থগিত বা অপসারণ করতে পারি।"
+        }
+      },
+      {
+        "id": 15,
+        "title": {
+          "en": "Limitation of Liability",
+          "bn": "দায়বদ্ধতার সীমাবদ্ধতা"
+        },
+        "content": {
+          "en": "To the extent permitted by applicable law, ShoutSpot is not responsible for losses resulting from user-generated content, service interruptions, unauthorized account access, or circumstances beyond our reasonable control.",
+          "bn": "প্রযোজ্য আইন অনুযায়ী অনুমোদিত সীমার মধ্যে, ব্যবহারকারীর কনটেন্ট, সেবা বিঘ্ন, অননুমোদিত অ্যাকাউন্ট ব্যবহার বা আমাদের নিয়ন্ত্রণের বাইরে থাকা ঘটনার কারণে সৃষ্ট ক্ষতির জন্য ShoutSpot দায়ী থাকবে না।"
+        }
+      },
+      {
+        "id": 16,
+        "title": {
+          "en": "Account Suspension",
+          "bn": "অ্যাকাউন্ট স্থগিত"
+        },
+        "content": {
+          "en": "Accounts involved in fraud, abuse, policy violations, security threats, or unlawful activities may be temporarily suspended or permanently terminated.",
+          "bn": "প্রতারণা, অপব্যবহার, নীতিমালা লঙ্ঘন, নিরাপত্তা ঝুঁকি বা অবৈধ কার্যক্রমে জড়িত অ্যাকাউন্ট সাময়িকভাবে স্থগিত বা স্থায়ীভাবে বন্ধ করা হতে পারে।"
+        }
+      },
+      {
+        "id": 17,
+        "title": {
+          "en": "Account Deletion and Inactive Accounts",
+          "bn": "অ্যাকাউন্ট মুছে ফেলা ও নিষ্ক্রিয় অ্যাকাউন্ট"
+        },
+        "content": {
+          "en": "You may delete your account at any time using the available options in ShoutSpot. We may also automatically delete accounts that remain inactive for an extended period in accordance with our policies. The current inactivity period is 60 days, but this period may be changed in future updates.",
+          "bn": "ShoutSpot-এ থাকা সুবিধার মাধ্যমে আপনি যেকোনো সময় আপনার অ্যাকাউন্ট মুছে ফেলতে পারবেন। এছাড়াও, আমাদের নীতিমালা অনুযায়ী দীর্ঘ সময় নিষ্ক্রিয় থাকা অ্যাকাউন্ট স্বয়ংক্রিয়ভাবে মুছে ফেলা হতে পারে। বর্তমানে নিষ্ক্রিয়তার সময়সীমা ৬০ দিন, তবে ভবিষ্যতে এই সময়সীমা পরিবর্তন করা হতে পারে।"
+        }
+      },
+      {
+        "id": 18,
+        "title": {
+          "en": "Changes to Terms",
+          "bn": "শর্তাবলীর পরিবর্তন"
+        },
+        "content": {
+          "en": "We may update these Terms and Conditions from time to time. Continued use of ShoutSpot after any update means you accept the revised Terms.",
+          "bn": "প্রয়োজন অনুযায়ী এই শর্তাবলী পরিবর্তন করা হতে পারে। পরিবর্তনের পরও ShoutSpot ব্যবহার চালিয়ে গেলে সংশোধিত শর্তাবলী গ্রহণ করেছেন বলে গণ্য হবে।"
+        }
+      },
+      {
+        "id": 19,
+        "title": {
+          "en": "Governing Law",
+          "bn": "প্রযোজ্য আইন"
+        },
+        "content": {
+          "en": "These Terms and Conditions are governed by the applicable laws of the jurisdiction in which ShoutSpot operates, unless otherwise required by law.",
+          "bn": "আইন অন্যথা নির্দেশ না দিলে, ShoutSpot পরিচালিত হওয়া সংশ্লিষ্ট বিচারব্যবস্থার প্রযোজ্য আইন অনুযায়ী এই শর্তাবলী পরিচালিত হবে।"
+        }
+      },
+      {
+        "id": 20,
+        "title": {
+          "en": "Contact Us",
+          "bn": "যোগাযোগ"
+        },
+        "content": {
+          "en": "If you have any questions regarding these Terms and Conditions, please contact us through the official support options available within ShoutSpot.",
+          "bn": "এই শর্তাবলী সম্পর্কে কোনো প্রশ্ন থাকলে ShoutSpot-এর অফিসিয়াল সাপোর্টের মাধ্যমে আমাদের সাথে যোগাযোগ করুন।"
+        }
+      },
+      {
+        "id": 21,
+        "title": {
+          "en": "User Responsibility",
+          "bn": "ব্যবহারকারীর দায়িত্ব"
+        },
+        "content": {
+          "en": "You are responsible for maintaining the security of your account, keeping your information accurate, and using ShoutSpot in a lawful and respectful manner. Any activity performed through your account is your responsibility.",
+          "bn": "আপনার অ্যাকাউন্টের নিরাপত্তা বজায় রাখা, সঠিক তথ্য প্রদান করা এবং আইনসম্মত ও দায়িত্বশীলভাবে ShoutSpot ব্যবহার করা আপনার দায়িত্ব। আপনার অ্যাকাউন্ট থেকে সংঘটিত সকল কার্যক্রমের দায়ভার আপনার।"
+        }
+      },
+      {
+        "id": 22,
+        "title": {
+          "en": "Disclaimer",
+          "bn": "দায় অস্বীকার"
+        },
+        "content": {
+          "en": "ShoutSpot is provided on an 'as available' basis. While we work to provide a reliable service, we do not guarantee uninterrupted operation, error-free performance, or that every feature will always be available.",
+          "bn": "ShoutSpot 'যেমন উপলব্ধ' ভিত্তিতে প্রদান করা হয়। আমরা নির্ভরযোগ্য সেবা প্রদানের চেষ্টা করি, তবে সবসময় নিরবচ্ছিন্ন, ত্রুটিমুক্ত বা সকল ফিচার সর্বদা উপলব্ধ থাকবে—এমন নিশ্চয়তা প্রদান করি না।"
+        }
+      },
+      {
+        "id": 23,
+        "title": {
+          "en": "Severability",
+          "bn": "শর্তের বৈধতা"
+        },
+        "content": {
+          "en": "If any provision of these Terms and Conditions is found to be invalid or unenforceable, the remaining provisions will continue to remain valid and enforceable.",
+          "bn": "যদি এই শর্তাবলীর কোনো অংশ আইনগতভাবে অকার্যকর বা অবৈধ বলে বিবেচিত হয়, তাহলে বাকি শর্তাবলী সম্পূর্ণভাবে কার্যকর থাকবে।"
+        }
+      },
+      {
+        "id": 24,
+        "title": {
+          "en": "Entire Agreement",
+          "bn": "সম্পূর্ণ চুক্তি"
+        },
+        "content": {
+          "en": "These Terms and Conditions, together with our Privacy Policy and Community Guidelines, constitute the complete agreement between you and ShoutSpot regarding the use of the service.",
+          "bn": "এই Terms and Conditions, Privacy Policy এবং Community Guidelines একত্রে ShoutSpot ব্যবহারের ক্ষেত্রে আপনার ও আমাদের মধ্যে সম্পূর্ণ চুক্তি হিসেবে বিবেচিত হবে।"
+        }
+      },
+      {
+        "id": 25,
+        "title": {
+          "en": "Contact Information",
+          "bn": "যোগাযোগের তথ্য"
+        },
+        "content": {
+          "en": "If you have any questions, suggestions, or concerns regarding these Terms and Conditions, please contact us through the official support options available within the ShoutSpot application.",
+          "bn": "এই Terms and Conditions সম্পর্কে আপনার কোনো প্রশ্ন, পরামর্শ বা অভিযোগ থাকলে ShoutSpot অ্যাপে থাকা অফিসিয়াল সাপোর্টের মাধ্যমে আমাদের সাথে যোগাযোগ করুন।"
+        }
+      }
+    ],
+    "footer": {
+      "en": "By continuing to use ShoutSpot, you confirm that you have read, understood, and agreed to these Terms and Conditions.",
+      "bn": "ShoutSpot ব্যবহার অব্যাহত রাখার মাধ্যমে আপনি নিশ্চিত করছেন যে, আপনি এই Terms and Conditions পড়েছেন, বুঝেছেন এবং এতে সম্মতি প্রদান করেছেন।"
+    }
+  }
+}

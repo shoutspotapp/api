@@ -1,0 +1,96 @@
+{
+  "app": {
+    "name": "ShoutSpot",
+    "version": "1.0.0",
+    "min_version": "1.0.0",
+    "maintenance_mode": false,
+    "force_update": false
+  },
+
+  "notice_dialog": {
+    "enabled": false,
+    "id": "notice_001",
+    "show_once": false,
+
+    "title": "Important Notice",
+    "message": "App will be under maintenance tonight from 12 AM to 2 AM.",
+
+    "dismissible": false,
+
+    "buttons": [
+      {
+        "visible": true,
+        "text": "Close",
+        "action": {
+          "type": "close"
+        }
+      },
+      {
+        "visible": false,
+        "text": "Visit Website",
+        "action": {
+          "type": "url",
+          "url": "https://shoutspot.onrender.com/"
+        }
+      }
+    ]
+
+  },
+
+  "covers": [
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1493246507139-91e8fad9978e",
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://i.pinimg.com/originals/60/d8/44/60d844679e07db517c19fdc5dd7af089.gif"
+  ],
+  "cover": [],
+  "banner": {
+    "type": "none",
+    "fix": "https://wallpapercave.com/wp/wp3113726.jpg",
+    "morning": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "afternoon": "https://i.pinimg.com/originals/60/d8/44/60d844679e07db517c19fdc5dd7af089.gif",
+    "evening": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e",
+    "night": "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+  },
+  "urls": {
+    "website": "https://shoutspot.onrender.com/",
+    "update_url": "https://shoutspot.onrender.com/",
+    "api": "https://shoutspot.onrender.com/",
+    "support": "https://linktwo.me/3p1pEV8ezG",
+    "privacy_policy": "https://raw.githubusercontent.com/shoutspotapp/api/refs/heads/main/privacy_policy.json",
+    "terms": "https://raw.githubusercontent.com/shoutspotapp/api/refs/heads/main/terms_of_service.json",
+    "community_guidelines": "https://raw.githubusercontent.com/shoutspotapp/api/refs/heads/main/community_guidelines.json"
+  },
+
+  "contact": {
+    "email": "support@shoutspot.com",
+    "phone": "+8801234567890",
+    "payment_number": "+8801790055419 (Send Money)",
+    "whatsapp": "+8801234567890",
+    "address": "Feni, Chattogram, Bangladesh"
+  },
+
+  "social": {
+    "facebook": "",
+    "youtube": "",
+    "telegram": "",
+    "instagram": ""
+  },
+
+  "features": {
+    "post_enabled": true,
+    "comment_enabled": true,
+    "poke_enabled": true,
+    "quiz_enabled": true,
+    "chat_enabled": true,
+    "sim_offer_enabled": false
+  },
+
+  "limits": {
+    "post_cost": 10,
+    "comment_cost": 10,
+    "chat": 10,
+    "message_cost": 200
+  }
+}
