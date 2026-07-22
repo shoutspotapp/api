@@ -1,8 +1,8 @@
 {
   "app": {
     "name": "ShoutSpot",
-    "version": "1.0.0",
-    "min_version": "1.0.0",
+    "version": "1.0.2",
+    "min_version": "1.0.2",
     "maintenance_mode": false,
     "force_update": false
   },
@@ -55,7 +55,7 @@
   },
   "urls": {
     "website": "https://shoutspot.onrender.com/",
-    "update_url": "https://shoutspot.onrender.com/",
+    "update_url": "https://drive.google.com/uc?id=1S2K0ZKX-hHJcv7zzmFfiowOPdcbFPCG1",
     "api": "https://shoutspot.onrender.com/",
     "support": "https://linktwo.me/3p1pEV8ezG",
     "privacy_policy": "https://raw.githubusercontent.com/shoutspotapp/api/refs/heads/main/privacy_policy.json",
