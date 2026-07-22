@@ -84,6 +84,10 @@
     "poke_enabled": true,
     "quiz_enabled": true,
     "chat_enabled": true,
+    "find_fnd_enabled": true,
+    "block_enabled": true,
+    "support_enabled": true,
+    "settings_enabled" : true,
     "sim_offer_enabled": false
   },
 
