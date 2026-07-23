@@ -1,36 +1,36 @@
 {
   "app": {
     "name": "ShoutSpot",
-    "version": "1.0.3",
-    "min_version": "1.0.3",
+    "version": "1.0.2",
+    "min_version": "1.0.2",
     "maintenance_mode": false,
     "force_update": true
   },
 
   "notice_dialog": {
     "enabled": false,
-    "id": "notice_001",
-    "show_once": false,
-
-    "title": "Important Notice",
-    "message": "App will be under maintenance tonight from 12 AM to 2 AM.",
+    "id": "notice_002",
+    "show_once": true,
+    
+  "title": "নতুন ভার্সন উপলব্ধ",
+  "message": "আমাদের অ্যাপের নতুন ভার্সন প্রকাশিত হয়েছে। সর্বশেষ ফিচার ও উন্নতি উপভোগ করতে আমাদের ওয়েবসাইট থেকে অ্যাপটি আপডেট করে নিন। আপডেট করতে বা ব্যবহার করতে কোনো সমস্যার সম্মুখীন হলে অবশ্যই আমাদের জানান।",
 
     "dismissible": false,
 
     "buttons": [
       {
+        "visible": false,
+        "text": "Update Now",
+        "action": {
+          "type": "url",
+          "url": "https://shoutspot.onrender.com/"
+        }
+      },
+      {
         "visible": true,
         "text": "Close",
         "action": {
           "type": "close"
-        }
-      },
-      {
-        "visible": false,
-        "text": "Visit Website",
-        "action": {
-          "type": "url",
-          "url": "https://shoutspot.onrender.com/"
         }
       }
     ]
