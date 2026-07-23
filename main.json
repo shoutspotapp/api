@@ -23,7 +23,7 @@
         "text": "Update Now",
         "action": {
           "type": "url",
-          "url": "https://shoutspot.onrender.com/"
+          "url": "https://www.shoutspot.app/"
         }
       },
       {
