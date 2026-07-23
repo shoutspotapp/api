@@ -8,7 +8,7 @@
   },
 
   "notice_dialog": {
-    "enabled": false,
+    "enabled": true,
     "id": "notice_002",
     "show_once": true,
     
