@@ -1,14 +1,14 @@
 {
   "app": {
     "name": "ShoutSpot",
-    "version": "1.0.2",
-    "min_version": "1.0.2",
+    "version": "1.0.3",
+    "min_version": "1.0.3",
     "maintenance_mode": false,
     "force_update": true
   },
 
   "notice_dialog": {
-    "enabled": true,
+    "enabled": false,
     "id": "notice_003",
     "show_once": true,
     
