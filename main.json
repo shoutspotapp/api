@@ -1,22 +1,18 @@
 {
   "app": {
     "name": "ShoutSpot",
-    "version": "1.0.4",
-    "min_version": "1.0.4",
+    "version": "1.0.3",
+    "min_version": "1.0.3",
     "maintenance_mode": false,
     "force_update": true
   },
-
   "notice_dialog": {
-    "enabled": true,
+    "enabled": false,
     "id": "notice_004",
     "show_once": true,
-    
-  "title": "নতুন ভার্সন উপলব্ধ",
-  "message": "আমাদের অ্যাপের নতুন ভার্সন প্রকাশিত হয়েছে। সর্বশেষ ফিচার ও উন্নতি উপভোগ করতে আমাদের ওয়েবসাইট থেকে অ্যাপটি আপডেট করে নিন। আপডেট করতে বা ব্যবহার করতে কোনো সমস্যার সম্মুখীন হলে অবশ্যই আমাদের জানান।",
-
+    "title": "নতুন ভার্সন উপলব্ধ",
+    "message": "আমাদের অ্যাপের নতুন ভার্সন প্রকাশিত হয়েছে। সর্বশেষ ফিচার ও উন্নতি উপভোগ করতে আমাদের ওয়েবসাইট থেকে অ্যাপটি আপডেট করে নিন। আপডেট করতে বা ব্যবহার করতে কোনো সমস্যার সম্মুখীন হলে অবশ্যই আমাদের জানান।",
     "dismissible": false,
-
     "buttons": [
       {
         "visible": true,
@@ -34,9 +30,7 @@
         }
       }
     ]
-
   },
-
   "covers": [
     "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
     "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
@@ -62,7 +56,6 @@
     "terms": "https://raw.githubusercontent.com/shoutspotapp/api/refs/heads/main/terms_and_conditions.json",
     "community_guidelines": "https://raw.githubusercontent.com/shoutspotapp/api/refs/heads/main/community_guidelines.json"
   },
-
   "contact": {
     "email": "support@shoutspot.app",
     "phone": "+8809638301887",
@@ -70,14 +63,12 @@
     "whatsapp": "+8809638301887",
     "address": "Feni, Chattogram, Bangladesh"
   },
-
   "social": {
     "facebook": "",
     "youtube": "",
     "telegram": "https://t.me/ShoutSpotBot",
     "instagram": ""
   },
-
   "features": {
     "post_enabled": true,
     "comment_enabled": true,
@@ -88,11 +79,10 @@
     "find_fnd_enabled": true,
     "block_enabled": true,
     "support_enabled": false,
-    "settings_enabled" : false,
+    "settings_enabled": false,
     "sim_offer_enabled": false,
     "message_enabled": true
   },
-
   "limits": {
     "post_cost": 10,
     "comment_cost": 5,
