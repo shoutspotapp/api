@@ -7,7 +7,7 @@
     "force_update": true
   },
   "notice_dialog": {
-    "enabled": false,
+    "enabled": true,
     "id": "notice_004",
     "show_once": true,
     "title": "নতুন ভার্সন উপলব্ধ",
