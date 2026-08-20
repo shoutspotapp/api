@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "ShoutSpot",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "min_version": "1.0.3",
     "maintenance_mode": false,
     "force_update": true
