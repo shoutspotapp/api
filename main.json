@@ -23,7 +23,7 @@
         }
       },
       {
-        "visible": true,
+        "visible": false,
         "text": "Close",
         "action": {
           "type": "close"
